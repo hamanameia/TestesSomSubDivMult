@@ -1,0 +1,11 @@
+C:\Users\SENAI3EM\Desktop\joaozinho\NomeBao\NomeBao\bin\Debug\net8.0\NomeBao.deps.json
+C:\Users\SENAI3EM\Desktop\joaozinho\NomeBao\NomeBao\bin\Debug\net8.0\NomeBao.dll
+C:\Users\SENAI3EM\Desktop\joaozinho\NomeBao\NomeBao\bin\Debug\net8.0\NomeBao.pdb
+C:\Users\SENAI3EM\Desktop\joaozinho\NomeBao\NomeBao\obj\Debug\net8.0\NomeBao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI3EM\Desktop\joaozinho\NomeBao\NomeBao\obj\Debug\net8.0\NomeBao.AssemblyInfoInputs.cache
+C:\Users\SENAI3EM\Desktop\joaozinho\NomeBao\NomeBao\obj\Debug\net8.0\NomeBao.AssemblyInfo.cs
+C:\Users\SENAI3EM\Desktop\joaozinho\NomeBao\NomeBao\obj\Debug\net8.0\NomeBao.csproj.CoreCompileInputs.cache
+C:\Users\SENAI3EM\Desktop\joaozinho\NomeBao\NomeBao\obj\Debug\net8.0\NomeBao.dll
+C:\Users\SENAI3EM\Desktop\joaozinho\NomeBao\NomeBao\obj\Debug\net8.0\refint\NomeBao.dll
+C:\Users\SENAI3EM\Desktop\joaozinho\NomeBao\NomeBao\obj\Debug\net8.0\NomeBao.pdb
+C:\Users\SENAI3EM\Desktop\joaozinho\NomeBao\NomeBao\obj\Debug\net8.0\ref\NomeBao.dll
